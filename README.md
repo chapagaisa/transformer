@@ -17,3 +17,12 @@ The models has been tested in Google Colab which has Python Version of 3.10.12, 
 ### Instructions
 Step1: Due to Ethical concerns datasets are not made public. <br>
 Step2: Install dependencies using terminal "pip install -r requirements.txt". If you wish to use .ipynb file in google colab, dependencies are included in the file. <br>
+
+### Files
+1. AblationStudy_BERTONLY.ipynb: Contains BERT and a linear layer for ablation study.
+2. AblationStudy_GRUONLY: BiDirectional GRU with custom word embeddings for ablation study.
+3. AblationStudy_GRUONLY_Glove: BiDirectional GRU with pre-trained (GloVe) word embeddings for ablation study.
+4. BERT_BiGRU: Proposed model.
+5. Baseline_BiLSTM: BiDirectional LSTM with pre-trained (GloVe) word embeddings.
+6. Baseline_ML_Classifiers: SVM, Naive Bayes, Logistic Regression, Random Forests, AdaBoost, MLP.
+
