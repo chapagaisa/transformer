@@ -15,7 +15,7 @@ The models has been tested in Google Colab which has Python Version of 3.10.12, 
 
 
 ### Instructions
-Step1: Due to Ethical concerns datasets are not made public. However, you can test the model with your any datasets (Moview Review, Book Review, etc.) that is publicly available. <br>
+Step1: Due to Ethical concerns datasets are not made public. However, you can test the model with any datasets (Moview Review, Book Review, etc.) that is publicly available. <br>
 Step2: Install dependencies using terminal "pip install -r requirements.txt". If you wish to use .ipynb file in google colab, dependencies are included in the file. <br>
 
 ### Files
