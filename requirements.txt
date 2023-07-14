@@ -1,0 +1,5 @@
+torch==2.0.1
+transformer==4.30.2
+torchtext==0.6
+numpy==1.22.4
+pandas==1.5.3
