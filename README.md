@@ -6,6 +6,7 @@
 Figure1. BERT-BiGRU network architecture.
 
 ![BERT](https://github.com/chapagaisa/BERT_BiGRU/assets/46834070/fdea3aac-9192-4c84-9663-706c9799e0b0)
+
 Figure2: The BERT layer
 
 ![GRU](https://github.com/chapagaisa/BERT_BiGRU/assets/46834070/21bddc2d-818f-4432-8ed5-22ec4600b6ef)
