@@ -21,5 +21,5 @@ The models has been tested in Google Colab which has Python Version of 3.10.12, 
 
 
 ### Instructions
-Step1: Due to Ethial reasons the dataset is not made public. <br>
+Step1: Due to Ethical concerns datasets are not made public. <br>
 Step2: Install dependencies using terminal "pip install -r requirements.txt". If you wish to use .ipynb file in google colab, dependencies are included in the file. <br>
