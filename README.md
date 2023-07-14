@@ -20,9 +20,9 @@ Step2: Install dependencies using terminal "pip install -r requirements.txt". If
 
 ### Files
 1. AblationStudy_BERTONLY.ipynb: Contains BERT and a linear layer for ablation study.
-2. AblationStudy_GRUONLY: BiDirectional GRU with custom word embeddings for ablation study.
-3. AblationStudy_GRUONLY_Glove: BiDirectional GRU with pre-trained (GloVe) word embeddings for ablation study.
-4. BERT_BiGRU: Proposed model.
-5. Baseline_BiLSTM: BiDirectional LSTM with pre-trained (GloVe) word embeddings.
-6. Baseline_ML_Classifiers: SVM, Naive Bayes, Logistic Regression, Random Forests, AdaBoost, MLP.
+2. AblationStudy_GRUONLY.ipynb: BiDirectional GRU with custom word embeddings for ablation study.
+3. AblationStudy_GRUONLY_Glove.ipynb: BiDirectional GRU with pre-trained (GloVe) word embeddings for ablation study.
+4. BERT_BiGRU.ipynb: Proposed model.
+5. Baseline_BiLSTM.ipynb: BiDirectional LSTM with pre-trained (GloVe) word embeddings.
+6. Baseline_ML_Classifiers.ipynb: SVM, Naive Bayes, Logistic Regression, Random Forests, AdaBoost, MLP.
 
