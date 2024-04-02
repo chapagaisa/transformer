@@ -15,11 +15,12 @@ We used a Linux server equipped with an NVIDIA GPU (Please see Experiments secti
 
 
 ### Instructions
-Step1: Due to Ethical concerns datasets are not made public. However, you can test the model with any datasets (Movie Review, Book Review, etc.) that is publicly available. <br>
-Step2: Install dependencies using terminal "pip install -r requirements.txt". <br>
+Step1: Install dependencies using terminal **pip install -r requirements.txt**. <br>
+Step2: Run **python roberta_bigru.py** <br>
 
+*NOTE: Due to ethical concerns, datasets are not made public. However, you can test the model with any publicly available datasets (such as Movie Reviews, Book Reviews, etc.).
 ### Files
-1. BERT_BiGRU.ipynb: Proposed model.
+1. roberta_bigru.py: Proposed model.
 2. Baseline_BiLSTM.ipynb: BiDirectional LSTM with pre-trained (GloVe) word embeddings.
 3. Baseline_ML_Classifiers.ipynb: SVM, Naive Bayes, Logistic Regression, Random Forests, AdaBoost, MLP.
 
