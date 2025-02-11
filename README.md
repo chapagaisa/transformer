@@ -1,9 +1,18 @@
-# BERT_BiGRU
+# transformer
 
-### Classification of LGBTQ+ Minority Stress with BERT-BiGRU
+### Advancing LGBTQ+ Minority Stress Detection with Transformers
 
-![BERT_GRU_ARC](https://github.com/chapagaisa/BERT_BiGRU/assets/46834070/abc6a851-d8aa-4634-99c8-2ccef78fb8b2)
-Figure1. BERT-BiGRU network architecture.
+![Image](https://github.com/user-attachments/assets/4d109072-b786-4be7-8e43-b449d4b467eb)
+Fig. 1: Encoder-Based (Left) and Decoder-Based (Right) Transformer Architectures
+
+![Image](https://github.com/user-attachments/assets/e4796a33-c63f-4b6a-af58-120feb342bf0)
+Fig. 2: BERT-GCN Network Architecture.
+
+![Image](https://github.com/user-attachments/assets/06ed965b-e326-4da2-9193-76e301be773f)
+Fig. 3: BERT-CNN network architecture
+
+![Image](https://github.com/user-attachments/assets/f790a5f4-8979-4e6b-ade5-d5e3d2662b59)
+Fig. 4: BERT-BiGRU network architecture.
 
 ### Dependencies
 We used a Linux server equipped with an NVIDIA GPU (Please see Experiments section of Paper for details), which has Python Version of 3.10.12, with following required packages to train our models: <br>
@@ -16,11 +25,8 @@ We used a Linux server equipped with an NVIDIA GPU (Please see Experiments secti
 
 ### Instructions
 Step1: Install dependencies using terminal **pip install -r requirements.txt**. <br>
-Step2: Run **python roberta_bigru.py** <br>
+Step2: Run **python <filename>.py** <br>
 
 *NOTE: Due to ethical concerns, datasets are not made public. However, you can test the model with any publicly available datasets (such as Movie Reviews, Book Reviews, etc.).
-### Files
-1. roberta_bigru.py: Proposed model.
-2. Baseline_BiLSTM.ipynb: BiDirectional LSTM with pre-trained (GloVe) word embeddings.
-3. Baseline_ML_Classifiers.ipynb: SVM, Naive Bayes, Logistic Regression, Random Forests, AdaBoost, MLP.
+
 
