@@ -1,6 +1,6 @@
 # transformer
 
-### Advancing LGBTQ+ Minority Stress Detection with Transformers
+### Advancing Minority Stress Detection with Transformers
 
 ![Image](https://github.com/user-attachments/assets/4d109072-b786-4be7-8e43-b449d4b467eb)
 Fig. 1: Encoder-Based (Left) and Decoder-Based (Right) Transformer Architectures
